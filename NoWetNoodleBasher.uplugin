@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.1.0",
 	"FriendlyName": "No Wet Noodle Basher",
 	"Description": "Make the Xeno-Basher not sound like a wet noodle when hitting stuff.",
 	"Category": "Modding",
@@ -18,10 +18,10 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.9.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "1.0.0",
-	"GameVersion": ">=383729",
+	"SemVersion": "1.1.0",
+	"GameVersion": ">=416835",
 	"RequiredOnRemote": false
 }
